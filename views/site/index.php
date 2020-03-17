@@ -20,10 +20,10 @@ $this->title = 'Home | Code is Eazy!';
                     <div class="col-lg-12">
                         <div class="slider__content">
                             <div class="contentbox">
-                                <h2>Learn <span>how </span></h2>
-                                <h2>to <span>Code </span></h2>
-                                <h2>for <span>Free </span></h2>
-                                <a class="shopbtn" href="#">learn now</a>
+                                <h2>เรียน <span>รู้ </span></h2>
+                                <h2>Web <span>Coding </span></h2>
+                                <h2>ที่นี่ <span>ฟรี! </span></h2>
+                                <a class="shopbtn" href="#">เรียน เลย</a>
                             </div>
                         </div>
                     </div>
@@ -38,10 +38,10 @@ $this->title = 'Home | Code is Eazy!';
                     <div class="col-lg-12">
                         <div class="slider__content">
                             <div class="contentbox">
-                                <h2>Learn <span>how </span></h2>
-                                <h2>to <span>Code </span></h2>
-                                <h2>for <span>Free </span></h2>
-                                <a class="shopbtn" href="#">learn now</a>
+                                <h2>เขียน <span>โค้ด </span></h2>
+                                <h2>ง๊าย <span>ง่าย </span></h2>
+                                <h2>กว่า <span>ที่คิด </span></h2>
+                                <a class="shopbtn" href="#">เรียน เลย</a>
                             </div>
                         </div>
                     </div>

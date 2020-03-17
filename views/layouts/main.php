@@ -67,8 +67,8 @@ AppAsset::register($this);
                 <div class="col-lg-8 d-none d-lg-block">
                     <nav class="mainmenu__nav">
                         <ul class="meninmenu d-flex justify-content-start">
-                            <li class="drop with--one--item"><a href="#">Home</a></li>
-                            <li class="drop"><a href="#">ABOUT US</a>
+                            <li class="drop with--one--item"><a href="#">หน้าหลัก</a></li>
+                            <li class="drop"><a href="#">เกี่ยวกับเรา</a>
                                 <div class="megamenu mega03">
                                     <ul class="item item03">
                                         <li class="title">Shop Layout</li>
@@ -94,7 +94,7 @@ AppAsset::register($this);
                                     </ul>
                                 </div>
                             </li>
-                            <li class="drop"><a href="shop-grid.html">Courses</a>
+                            <li class="drop"><a href="shop-grid.html">คอร์สเรียน</a>
                                 <div class="megamenu mega03">
                                     <ul class="item item03">
                                         <li class="title">Categories</li>
@@ -122,7 +122,7 @@ AppAsset::register($this);
                                     </ul>
                                 </div>
                             </li>
-                            <li class="drop"><a href="shop-grid.html">Domain & Hosting</a>
+                            <li class="drop"><a href="shop-grid.html">โดเมน & โฮสติ้ง</a>
                                 <div class="megamenu mega02">
                                     <ul class="item item02">
                                         <li class="title">Top Collections</li>
@@ -162,7 +162,7 @@ AppAsset::register($this);
                                     </ul>
                                 </div>
                             </li>-->
-                            <li class="drop"><a href="blog.html">Blog</a>
+                            <li class="drop"><a href="blog.html">บล็อก</a>
                                 <div class="megamenu dropdown">
                                     <ul class="item item01">
                                         <li><a href="blog.html">Blog Page</a></li>
@@ -170,7 +170,7 @@ AppAsset::register($this);
                                     </ul>
                                 </div>
                             </li>
-                            <li><a href="contact.html">Contact</a></li>
+                            <li><a href="contact.html">ติดต่อเรา</a></li>
                         </ul>
                     </nav>
                 </div>
