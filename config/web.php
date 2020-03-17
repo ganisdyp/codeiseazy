@@ -27,13 +27,13 @@ $config = [
         'authManager' => [
             'class' => 'yii\rbac\PhpManager',
         ],
-        'view'=>[
+    /*    'view'=>[
             'theme'=>[
                 'pathMap'=>[
                     '@app/views'=>'@app/themes/agency'
                 ]
             ]
-        ],
+        ],*/
         'as access' => [
             'class' => 'mdm\admin\components\AccessControl',
             'allowActions' => [
